@@ -1,0 +1,40 @@
+=== assistant1 ===
+PASS: Normal input (exit 0)
+Usage: /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-/assistant1 <username> <message>
+PASS: Missing arguments (exit 1)
+Invalid input: username must be 1-64 bytes and message 1-4096 bytes.
+PASS: Long username (exit 2)
+Invalid message: control characters are not allowed.
+PASS: Newline injection (exit 2)
+PASS: Maximum lengths (exit 0)
+Maximum record bytes: 4163
+=== assistant2 ===
+PASS: Normal input (exit 0)
+Usage: /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-/assistant2 USERNAME MESSAGE
+PASS: Missing arguments (exit 2)
+Invalid username: use 1-64 letters, digits, '.', '_' or '-'.
+PASS: Long username (exit 2)
+Invalid message: use 1-4096 characters without control characters.
+PASS: Newline injection (exit 2)
+PASS: Maximum lengths (exit 0)
+Maximum record bytes: 4163
+=== assistant1_san ===
+PASS: Normal input (exit 0)
+Usage: /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-/assistant1_san <username> <message>
+PASS: Missing arguments (exit 1)
+Invalid input: username must be 1-64 bytes and message 1-4096 bytes.
+PASS: Long username (exit 2)
+Invalid message: control characters are not allowed.
+PASS: Newline injection (exit 2)
+PASS: Maximum lengths (exit 0)
+Maximum record bytes: 4163
+=== assistant2_san ===
+PASS: Normal input (exit 0)
+Usage: /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-/assistant2_san USERNAME MESSAGE
+PASS: Missing arguments (exit 2)
+Invalid username: use 1-64 letters, digits, '.', '_' or '-'.
+PASS: Long username (exit 2)
+Invalid message: use 1-4096 characters without control characters.
+PASS: Newline injection (exit 2)
+PASS: Maximum lengths (exit 0)
+Maximum record bytes: 4163

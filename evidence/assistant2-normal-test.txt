@@ -1,0 +1,3 @@
+Program exit code: 0
+student2: User successfully logged in
+-rw------- 600 userlog.txt

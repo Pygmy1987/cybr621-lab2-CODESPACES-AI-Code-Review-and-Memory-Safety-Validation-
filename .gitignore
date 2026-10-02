@@ -1,0 +1,10 @@
+
+# Generated executables, object files, and CodeQL database
+/assistant1
+/assistant2
+/assistant1_san
+/assistant2_san
+*.o
+/codeql-db/
+
+/lab2-review.tar.gz

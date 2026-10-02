@@ -1,0 +1,2 @@
+Could not format log record.
+Program exit code: 1

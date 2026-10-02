@@ -1,0 +1,2 @@
+Usage: ./assistant2 USERNAME MESSAGE
+Program exit code: 2

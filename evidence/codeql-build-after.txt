@@ -1,0 +1,15 @@
+Initializing database at /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-/codeql-db.
+Running build command: [gcc, -Wall, -Wextra, -Wpedantic, -c, assistant1.c, assistant2.c]
+Running command in /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-: [gcc, -Wall, -Wextra, -Wpedantic, -c, assistant1.c, assistant2.c]
+Finalizing database at /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-/codeql-db.
+Running pre-finalize script /home/codespace/.local/share/gh/extensions/gh-codeql/dist/release/v2.27.1/cpp/tools/pre-finalize.sh in /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-.
+Running command in /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-: [/home/codespace/.local/share/gh/extensions/gh-codeql/dist/release/v2.27.1/cpp/tools/pre-finalize.sh]
+Pre-finalize script /home/codespace/.local/share/gh/extensions/gh-codeql/dist/release/v2.27.1/cpp/tools/pre-finalize.sh completed in 105 ms.
+Running TRAP import for CodeQL database at /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-/codeql-db...
+Importing TRAP files
+Merging relations
+Finished writing database (relations: 153.18 KiB; string pool: 2.13 MiB).
+TRAP import complete (3.6s).
+Finished zipping source archive (122.19 KiB).
+Successfully created database at /workspaces/cybr621-lab2-CODESPACES-AI-Code-Review-and-Memory-Safety-Validation-/codeql-db.
+Database build exit code: 0

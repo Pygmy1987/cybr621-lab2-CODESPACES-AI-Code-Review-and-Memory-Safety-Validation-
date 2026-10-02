@@ -1,0 +1,3 @@
+Invalid message: use 1-4096 characters without control characters.
+Program exit code: 2
+Log comparison exit code: 0

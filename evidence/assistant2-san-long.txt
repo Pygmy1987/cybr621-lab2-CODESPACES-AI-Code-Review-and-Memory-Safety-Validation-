@@ -1,0 +1,2 @@
+Invalid username: use 1-64 letters, digits, '.', '_' or '-'.
+Program exit code: 2

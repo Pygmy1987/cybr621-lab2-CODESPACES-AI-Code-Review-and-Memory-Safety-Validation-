@@ -1,0 +1,2 @@
+userlog.txt must be a private, singly-linked regular file owned by this user.
+Program exit code: 1

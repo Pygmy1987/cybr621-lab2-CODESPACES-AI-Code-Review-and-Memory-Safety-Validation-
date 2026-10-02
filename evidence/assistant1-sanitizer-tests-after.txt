@@ -1,0 +1,6 @@
+=== Normal input ===
+Program exit code: 0
+=== Long username ===
+Invalid input: username must be 1-64 bytes and message 1-4096 bytes.
+Program exit code: 2
+Log comparison exit code: 0

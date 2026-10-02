@@ -1,0 +1,3 @@
+Program exit code: 0
+student1: Normal test after fixes
+-rw------- 600 userlog.txt

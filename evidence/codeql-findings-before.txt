@@ -1,0 +1,1 @@
+cpp/world-writable-file-creation	A file may be created here with mode 0666, which would make it world-writable.	assistant1.c	12

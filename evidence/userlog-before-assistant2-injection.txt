@@ -1,0 +1,4 @@
+student2: User successfully logged in
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA: Long username test
+student1: normal entry
+FAKE_ADMIN: password changed

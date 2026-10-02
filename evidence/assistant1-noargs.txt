@@ -1,0 +1,2 @@
+Usage: ./assistant1 <username> <message>
+Program exit code: 1

@@ -1,0 +1,3 @@
+Program exit code: 0
+student1: normal entry
+FAKE_ADMIN: password changed
